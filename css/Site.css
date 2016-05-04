@@ -11,7 +11,7 @@ nav li {
 	list-style: none;
 	padding-top:20%;
 	padding-bottom: 20%;
-   
+
 
     display:none;
 }
@@ -48,7 +48,7 @@ padding-top:5%;
 
 nav > li:hover
 {
-	
+
 	display:block !important;
 
 }
@@ -83,7 +83,7 @@ nav:hover li a:hover{
 
 .section
 {
-
+  box-shadow: 0px 15px 12px -15px grey;
 	padding: 20rem 0 19rem;
 }
 
