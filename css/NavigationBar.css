@@ -43,7 +43,6 @@
     padding-top: 8px;
     margin: 0 20px;
     color: black;
-    font: normal 12px arial;
     text-align: center;
     text-decoration: none;
     float: left;
@@ -51,6 +50,7 @@
     position: relative;
     z-index: 2;
     transition: ease-in-out 0.3s;
-    font-size: 13px;
+    font-family: TikalSans;
+    font-size: 14px;
     font-weight: normal;
 }

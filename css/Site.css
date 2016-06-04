@@ -1,5 +1,11 @@
+@font-face{
+    font-family: TikalSans;
+    src: url(../../Font/../../Font/tikalsans_medium_macroman/../../Font/../../Font/tikalsans_medium_macroman/TikalSans-Medium-webfont.woff)
+}
+
 body{
 	color: white !important;
+    font-family: TikalSans;
 }
 
 .section
@@ -39,14 +45,7 @@ body{
 	background-size: cover;
 }
 
-
-
-h1{
-	font-family: 'Lucida Bright', Georgia, serif;
-
-}
 p{
-	font-family: 'Lucida Bright', 'Lucida Console', monaco, 'Bitstream Vera Sans Mono', monospace;
 	font-size: 18px;
 }
 
